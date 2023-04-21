@@ -4,16 +4,12 @@
 
 - 🔭 &ensp;I’m currently seeeing technologies!
 - 🌱 &ensp;I’m currently learning Nodejs ❤️
-- 🗿 &ensp;
+- 🗿 &ensp;Not good with monopolly!
 - ⚡ &ensp;Fun fact: I love hunting and comparing things
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
 ### Connect With Me
 
-[<img align="left" alt="Ayushmaan | Website" width="28px" src="" />][website]
-[<img align="left" alt="Ayushmaan | YouTube" width="28px" src="" />][youtube]
-[<img align="left" alt="Ayushmaan | Twitter" width="28px" src="" />][twitter]
-[<img align="left" alt="Ayushmaan | LinkedIn" width="28px" src=" />][linkedin]
 
 
 
@@ -23,8 +19,6 @@
 ### Languages and Tools
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
-
-
 
 <br />
 <br />
