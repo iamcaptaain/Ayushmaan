@@ -17,9 +17,7 @@
 <br />
 
 ### Languages and Tools
-[<img align="left" alt="NodeJS" width="26px" src="./assets/icons/nodejs_icon.png" />][NodeJS]
-
-[<img align="left" alt="Mongo" width="26px" src="./assets/icons/mongodb_icon.png" />][Angular]
+[<img align="left" alt="NodeJS" width="26px" src="./assets/icons/nodejs_icon.png" />][NodeJS][<img align="left" alt="Mongo" width="26px" src="./assets/icons/mongodb_icon.png" />][Angular]
 
 <br />
 <br />
