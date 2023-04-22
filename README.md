@@ -6,7 +6,7 @@
 - 🌱 &ensp;I’m currently learning Nodejs ❤️
 - 🗿 &ensp;Not good with monopolly!
 - ⚡ &ensp;Fun fact: I love hunting and comparing things
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+- 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**Email**][email]
 
 ### Connect With Me
 
