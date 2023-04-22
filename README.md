@@ -17,9 +17,9 @@
 <br />
 
 ### Languages and Tools
-[<img align="left" alt=NodeJS width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F273749%2Fnode-js&psig=AOvVaw2gJ8M1Gx2aektx4VFDNoeZ&ust=1682190783086000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCyuJPXu_4CFQAAAAAdAAAAABAD" />][NodeJS]
+[<img align="left" alt="NodeJS" width="26px" src="./assets/icons/nodejs_icon.png" />][NodeJS]
 
-[<img align="left" alt="Angular" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fangular.io%2Fpresskit&psig=AOvVaw0DQN6do4IjrakD3YqtvcsW&ust=1682191012330000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMjBrYXYu_4CFQAAAAAdAAAAABAs" />][Angular]
+[<img align="left" alt="Mongo" width="26px" src="./assets/icons/mongodb_icon.png" />][Angular]
 
 <br />
 <br />
