@@ -30,3 +30,15 @@
 
 ### 📚 &ensp;Achivments
 
+
+
+
+
+---
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/ayushmaan-tiwari-92bb1387
+[github]: https://github.com/iamcaptaain
+[email]: mailto:iamtiwari@duck.com
